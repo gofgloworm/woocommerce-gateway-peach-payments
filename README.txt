@@ -11,7 +11,7 @@ License: GPLv3
 A payment gateway integration between WooCommerce and Peach Payments.
 
 == Description ==
-The Peach Payments extension for WooCommerce is a South African payment gateway that allows merchants to access various payment methods, including credit/debit cards, bank transfers, mobile wallets, electronic wallets and mobile operator billing to help them succeed in emerging markets.
+The Peach Payments extension for WooCommerce is a South African payment gateway that allow merchants to access various payment methods, including credit/debit cards, bank transfers, mobile wallets, electronic wallets and mobile operator billing to help them succeed in emerging markets.
 
 - Secure card storage
 - Fully supports WooCommerce Subscriptions (separate purchase)
